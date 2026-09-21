@@ -1,0 +1,20 @@
+Sentinelt Intelligence Engine
+Copyright (c) 2026 Sentinelt LLC (Miami, Florida, USA). All rights reserved.
+
+This source code and documentation are published so that the methodology can be
+read, audited and cited. Permission is granted to view the repository and to run
+the code for personal, non-commercial evaluation and study.
+
+No other permission is granted. Without prior written consent from Sentinelt LLC
+you may not copy, modify, redistribute, sublicense, sell, or use this software,
+its methodology documents, or the name "Sentinelt Cyber Priority Score (SCPS)"
+in any product or service, commercial or not.
+
+"Sentinelt", "Sentinelt Intelligence Engine" and "Sentinelt Cyber Priority Score"
+are names of Sentinelt LLC.
+
+Data attribution: NIST NVD (public domain), CISA KEV (public), FIRST.org EPSS
+(see https://www.first.org/epss/ for usage terms). Sentinelt outputs must credit
+these sources and never imply endorsement by NIST, CISA or FIRST.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

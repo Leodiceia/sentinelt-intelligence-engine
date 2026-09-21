@@ -10,3 +10,9 @@ data/
 *.csv.gz
 *.json.gz
 .DS_Store
+.Rhistory
+.env.*
+!.env.example
+*.pem
+*.key
+clients/
